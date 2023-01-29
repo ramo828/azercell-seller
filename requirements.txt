@@ -1,0 +1,6 @@
+requests
+bs4
+pillow
+pyside6
+pyqt6
+pyinstaller
