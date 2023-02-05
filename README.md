@@ -1,4 +1,1 @@
-# azercell-seller
-# azercell-seller
-# azercell-seller
-# azercell-seller
+Azercell number tool
